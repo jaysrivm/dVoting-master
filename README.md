@@ -106,4 +106,3 @@ Possible features to add/improve within the app.
 
 ---
 
-Made with ❤️ by [Bibek Aryal](https://bibeka.com.np/).
